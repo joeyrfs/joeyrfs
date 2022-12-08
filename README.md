@@ -21,3 +21,5 @@
   <img width="30" src="https://www.svgrepo.com/show/157806/instagram.svg">
 </a>
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
